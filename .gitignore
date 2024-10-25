@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
+!**/out/artifacts/
 !**/src/test/**/out/
 
 ### Eclipse ###
